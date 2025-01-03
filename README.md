@@ -3,7 +3,7 @@
 The **Nutrition Tracker Shiny App** is an interactive web application designed to help users track their nutritional intake, calculate their Body Mass Index (BMI), determine daily calorie requirements, upload nutritional data, and generate customized meal plans. The app utilizes a nutrition dataset with detailed information about food items, including calorie content, macro and micronutrients, and other health-related parameters.
 
 With user authentication powered by **Google**, the app provides a seamless and secure experience. Whether you're looking to optimize your diet, manage your calorie intake, or build personalized meal plans, this app offers a powerful toolset to achieve your nutritional goals.
-![Alt text](https://ibb.co/1797PWH)
+![Alt text](https://i.ibb.co/PF5FPHB/Screenshot-34.png)
 
 
 ## Features
@@ -15,10 +15,8 @@ With user authentication powered by **Google**, the app provides a seamless and 
 - **Upload Nutritional Data**: Users can upload their custom nutritional datasets in CSV format for analysis and meal planning.
 - **Google Authentication**: The app integrates Google authentication, allowing users to log in securely using their Google account.
 ## Screenshots
-![Alt text](https://ibb.co/nPwJh1R)
-![Alt text](https://ibb.co/KKpzZ3C)
-
-
+![Alt text](https://i.ibb.co/qJ3FGPb/Screenshot-36.png)
+![Alt text](https://i.ibb.co/qJDQbgx/Screenshot-35.png)
 ## Prerequisites
 
 Before using the app, ensure you have the following prerequisites installed:
