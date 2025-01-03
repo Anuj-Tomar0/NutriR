@@ -14,12 +14,14 @@ With user authentication powered by **Google**, the app provides a seamless and 
 - **Custom Meal Plans**: Users can generate meal plans that align with their dietary goals, ensuring proper nutrition and calorie balance.
 - **Upload Nutritional Data**: Users can upload their custom nutritional datasets in CSV format for analysis and meal planning.
 - **Google Authentication**: The app integrates Google authentication, allowing users to log in securely using their Google account.
+
+
 ## Screenshots
 ![Alt text](https://i.ibb.co/qJ3FGPb/Screenshot-36.png)
 ![Alt text](https://i.ibb.co/qJDQbgx/Screenshot-35.png)
 
 
-##PowerBI dashboard
+## PowerBI dashboard
 
 
 ![Alt text](https://i.ibb.co/0YpdpZj/image.png)
