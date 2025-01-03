@@ -1,4 +1,4 @@
-## NUTRIR
+## NutriR
 
 The **Nutrition Tracker Shiny App** is an interactive web application designed to help users track their nutritional intake, calculate their Body Mass Index (BMI), determine daily calorie requirements, upload nutritional data, and generate customized meal plans. The app utilizes a nutrition dataset with detailed information about food items, including calorie content, macro and micronutrients, and other health-related parameters.
 
