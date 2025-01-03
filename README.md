@@ -121,7 +121,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For any questions or inquiries:
 
-- **Author**: Anuj
-- **Email**: anuj@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Author**: Anuj Tomar & Divya Sharma
+- **Email**: anujtom1555@gmail.com
+- **GitHub**: [Anuj-Tomar0](https://github.com/Anuj-tomar0)
 
