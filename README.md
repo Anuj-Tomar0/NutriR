@@ -17,6 +17,12 @@ With user authentication powered by **Google**, the app provides a seamless and 
 ## Screenshots
 ![Alt text](https://i.ibb.co/qJ3FGPb/Screenshot-36.png)
 ![Alt text](https://i.ibb.co/qJDQbgx/Screenshot-35.png)
+
+
+##PowerBI dashboard
+
+
+![Alt text](https://i.ibb.co/0YpdpZj/image.png)
 ## Prerequisites
 
 Before using the app, ensure you have the following prerequisites installed:
